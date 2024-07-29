@@ -1,1 +1,1 @@
-This folder contains projects done during online courses and college.
+This folder contains projects related to machine learning.
